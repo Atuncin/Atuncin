@@ -6,7 +6,7 @@
 
 <br>
 
-- :school: I am a `Junior` at [National Unified Higher Education Corporation](https://cun.edu.co) 
+- :school: I am a `Student` at [National Unified Higher Education Corporation](https://cun.edu.co) 
 - :technologist: I love using Software as a solution for every `Problem`.
 - :student: I’m currently learning `Computer Science` and `Systems Engineering`.
 - :nerd_face: Always `learning new things`.
@@ -28,8 +28,8 @@
 <h3 align="left">🍁Connect with me:</h3>
 <div align="left">
 
-[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/brantlauro/)
-[![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/brantlauro)
+[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yeferson_v09?utm_source=qr&igsh=YTF6bHp2M285ZTZz)
+[![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Atun55263123834?t=_Xg2ulWUqQ09gPO2IWrQxg&s=09)
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:produtor.brantlauro@gmail.com)
   
 </div>

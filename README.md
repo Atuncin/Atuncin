@@ -1,4 +1,5 @@
- <img src="https://preview.redd.it/nqpd9msws0b51.png?auto=webp&s=361b8fedbe23ab43276f787576e302bd938ab954"> <h1 align="center">Hi , I'm Yeferson - Atun <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+ <img src="https://cdn.lacasaencendida.es/storage/26226/conversions/xmi-vecino-totoro-de-hayao-miyazaki-detail.jpg.pagespeed.ic.W_Z66KZR6I.jpg" >
+ <h1 align="center">Hi , I'm Yeferson - Atun <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
  
  
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>

@@ -47,7 +47,7 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Atuncin&repo=Proyecto_Regalo_De_Cumplea-os&theme=tokyonight" alt="GitHub Stats" />
 </a>
 
-    	</a>
+    	
      
 	
     

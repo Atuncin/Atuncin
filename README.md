@@ -10,7 +10,7 @@
 - :technologist: I love using Software as a solution for every `Problem`.
 - :student: I’m currently learning `Computer Science` and `Systems Engineering`.
 - :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [My Resume]().
+- :thinking: I’m currently open for a new `job opportunity`, this is [My Resume](https://drive.google.com/file/d/1-qxDk8svuEM7yzWiv0gRIXHpfPUHdqb6/view?usp=sharing).
 - :boom: You can visit [My Website]().
   
 <br>
